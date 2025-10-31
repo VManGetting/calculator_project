@@ -1,0 +1,33 @@
+/*
+
+html
+input prompt 
+text area
+
+buttons for numbers
+1-9
+
+buttons for calculations
+add
+subtract
+multiply
+divide
+
+
+javascript
+variables:
+  input numbers
+    first number 
+    second number
+    return number
+function operator
+  takes 2 numbers 
+  calls function numbers
+html calculator buttons
+  each digit
+  each operator including =
+function that displays when you click the digit buttons
+  store numbers
+
+
+*/

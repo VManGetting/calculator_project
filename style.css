@@ -1,0 +1,32 @@
+#userInput {
+    border: 1px solid #ccc;
+    font-size: 16px;
+    width: 150px;
+    height: 30px;
+    /*padding: 10px; */
+
+}
+
+.number_container {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr); 
+    gap: 1px 1px;
+    width: 150px;
+    height: 150px;
+    padding: 5px;
+    /* border: 1px solid #ccc;  */
+
+}
+
+
+.select_button {
+    border: 1px solid #ddd;
+    justify-content: center;
+    padding: 2px;
+
+}
+
+.operation_button {
+    background-color: yellow;
+}
